@@ -30,19 +30,19 @@ This assignment should prove that a student is able to:
 - [x] Fork the project to your github account
 - [x] Clone the project to your computer
 - [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
-- [ ] Initialize playwright and install project packages
+- [x] Initialize playwright and install project packages
   - [x] Use `npm i` to install packages
   - [x] Use `npm run browser-install` to install the browser environment for testing (131mb will be downloaded)
   - [x] (Windows users only) Use `npm run deps-install` to install playwright additional dependencies (160mb will be downloaded)
 - [x] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] All the tests MUST pass. Fix the errors in case any tests don't pass BEFORE you submit (acceptance criteria)
+- [x] All the tests MUST pass. Fix the errors in case any tests don't pass BEFORE you submit (acceptance criteria)
   - [x] Use `npm run test` to run all tests in the terminal
   - [x] (Optional) Use `npm run test-ui` to run all the tests with GUI
   - [x] (Optional) Use `npm run show-report` to see the latest report in the browser
 - [x] VSCode IDE MUST have 0 code problems listed (spelling problems are fine)
 - [x] The code MUST be formatted with Prettier
-- [ ] Push the changes to the Github repo, when finished.
-- [ ] Submit a txt file with the Github repo url.
+- [x] Push the changes to the Github repo, when finished.
+- [x] Submit a txt file with the Github repo url.
 
 ## Specific requirements
 
